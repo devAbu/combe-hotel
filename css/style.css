@@ -1,0 +1,86 @@
+#logo{
+    height:200px;
+    width:650px;
+    margin-top:-30px;
+}
+
+#time{
+    margin-top:50px;
+    margin-left:-30px;
+}
+
+#room-image{
+    z-index: -1;
+    width:530px;
+    height: 270px;
+    float: left;
+    margin-left: 30px;
+}
+
+#room-button{
+    z-index:1;
+    margin-left:-390px;
+    margin-bottom:220px;
+    margin-top:10px;
+}
+
+#sky-bar-image{
+    margin-left: 560px;
+    width: 760px;
+    height: 480px;
+    margin-top:-260px;
+}
+
+#sky-bar-button{
+    float:right;
+    margin-top:-250px;
+    margin-left: -250px;
+    position: absolute;
+}
+
+#int-image{
+    width: 250px;
+    height: 211px;
+    margin-top:-240px;
+    margin-left:30px;
+}
+
+#hotel-image{
+    width: 500px;
+    height: 250px;
+    margin-left:30px;
+}
+
+#hotel-button{
+    position: relative;
+    margin-left:-350px;
+}
+
+#spa{
+    width: 790px;
+    height: 251px;
+    margin-top:-280px;
+    margin-left:530px;
+}
+
+.link{
+    color: rgb(255, 230, 107);
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.link:hover{
+    text-decoration: none; 
+    color: rgb(219, 183, 0);
+}
+
+.lang{
+    color: rgb(255, 198, 64);
+    text-decoration: none;
+    font-size:20px;
+    margin-right:15px;
+}
+
+.lang:hover{
+    color: goldenrod;
+}
